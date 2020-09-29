@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/yoga_mat"
+        android:id="@+id/item_yoga"
+        android:icon="@drawable/yoga_mat_light"
+        android:enabled="true"
+        app:showAsAction="ifRoom">
+
+    </item>
+    <item
+        android:title="@string/beauty_tips"
+        android:id="@+id/item_tips"
+        android:icon="@drawable/beauty_light"
+        android:enabled="true"
+        app:showAsAction="ifRoom">
+
+    </item>
+    <item
+        android:title="@string/yoga_motivation"
+        android:id="@+id/item_motivation"
+        android:icon="@drawable/stories_light"
+        android:enabled="true"
+        app:showAsAction="ifRoom">
+
+    </item>
+    <item
+        android:title="@string/more"
+        android:id="@+id/item_more"
+        android:icon="@drawable/more_light"
+        android:enabled="true"
+        app:showAsAction="ifRoom">
+
+    </item>
+</menu>

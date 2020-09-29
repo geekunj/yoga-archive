@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">YogaArchive</string>
+    <string name="yoga_mat">Yoga</string>
+    <string name="beauty_tips">Beauty Tips</string>
+    <string name="yoga_motivation">Motivation</string>
+    <string name="more">More</string>
+    <string name="tv_str_series">Series</string>
+    <string name="tv_str_fyogas">Featured Yogas</string>
+
+    <string-array name="pose_category">
+        <item>"Beginner Poses"</item>
+        <item>"Intermediate Essentials"</item>
+        <item>"Expert Yogas"</item>
+    </string-array>
+
+    <string-array name="pose_category_subname">
+        <item>"Let's get started"</item>
+        <item>"Natrajasana"</item>
+        <item>"Uttanasana"</item>
+    </string-array>
+
+    <string-array name="beginner_poses_names">
+        <item>"Mountain Pose"</item>
+        <item>"Boat Pose"</item>
+        <item>"Locust Pose"</item>
+        <item>"Tree Pose"</item>
+        <item>"Bridge Pose"</item>
+        <item>"Triangle Pose"</item>
+
+    </string-array>
+
+    <string-array name="beginner_poses_subnames">
+        <item>"Tadasana"</item>
+        <item>"Naukasana"</item>
+        <item>"Salabhasana"</item>
+        <item>"Vrikshasana"</item>
+        <item>"Setu Bandhasana"</item>
+        <item>"Trikonasana"</item>
+
+    </string-array>
+
+
+    <string-array name="pose_name">
+        <item>"Cobra Pose"</item>
+        <item>"Bound Angle"</item>
+        <item>"Seated Boat"</item>
+        <item>"Firefly Pose"</item>
+        <item>"Lotus Pose"</item>
+    </string-array>
+
+    <string-array name="pose_subname">
+        <item>"Bhujangasana"</item>
+        <item>"Baddha Konasana"</item>
+        <item>"Naukasana"</item>
+        <item>"Tittibhasana"</item>
+        <item>"Padmasana"</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+</resources>
